@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2">
+    <sys_data_policy2 action="DELETE">
+        <active>true</active>
+        <apply_import_set>true</apply_import_set>
+        <apply_soap>true</apply_soap>
+        <conditions table="x_720704_jello_wor_taches">short_descriptionISNOTEMPTY^EQ<item endquery="false" field="short_description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <enforce_ui>true</enforce_ui>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table>x_720704_jello_wor_taches</model_table>
+        <reverse_if_false>true</reverse_if_false>
+        <short_description/>
+        <sys_class_name>sys_data_policy2</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 20:08:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b772351787773010d392eb173cbb3554</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Jello World" source="x_720704_jello_wor">da22a60c87b73010d392eb173cbb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jello World">da22a60c87b73010d392eb173cbb3588</sys_scope>
+        <sys_update_name>sys_data_policy2_b772351787773010d392eb173cbb3554</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 20:08:26</sys_updated_on>
+    </sys_data_policy2>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jello World">da22a60c87b73010d392eb173cbb3588</application>
+        <file_path/>
+        <instance_id>9cad13b5dbab2810d5c911f84896196f</instance_id>
+        <instance_name>dev112076</instance_name>
+        <name>sys_data_policy2_b772351787773010d392eb173cbb3554</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_data_policy2"><sys_data_policy2 action="INSERT_OR_UPDATE"><active>true</active><apply_import_set>true</apply_import_set><apply_soap>true</apply_soap><conditions table="x_720704_jello_wor_taches">short_descriptionISNOTEMPTY^EQ<item endquery="false" field="short_description" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></conditions><description/><enforce_ui>true</enforce_ui><inherit>false</inherit><model_id/><model_table>x_720704_jello_wor_taches</model_table><reverse_if_false>true</reverse_if_false><short_description/><sys_class_name>sys_data_policy2</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-11-18 20:08:26</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b772351787773010d392eb173cbb3554</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Jello World" source="x_720704_jello_wor">da22a60c87b73010d392eb173cbb3588</sys_package><sys_policy/><sys_scope display_value="Jello World">da22a60c87b73010d392eb173cbb3588</sys_scope><sys_update_name>sys_data_policy2_b772351787773010d392eb173cbb3554</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-11-18 20:08:26</sys_updated_on></sys_data_policy2></record_update>]]></payload>
+        <payload_hash>-1104190165</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>1622a60c87b73010d392eb173cbb358b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 20:08:26</sys_created_on>
+        <sys_id>d4a2751787773010d392eb173cbb35dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17d34aa29a80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 20:08:26</sys_updated_on>
+        <type>Data Policy</type>
+        <update_guid>dca2751746773010595474cc251eafdb</update_guid>
+        <update_guid_history>dca2751746773010595474cc251eafdb:-1104190165</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-18 20:08:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_policy2">sys_data_policy2</sys_db_object>
+        <sys_id>13f7d931a8654b088c8504f240a33dc9</sys_id>
+        <sys_metadata>b772351787773010d392eb173cbb3554</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Jello World" source="x_720704_jello_wor">da22a60c87b73010d392eb173cbb3588</sys_package>
+        <sys_parent display_value="taches">a224260087f73010d392eb173cbb354d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Jello World">da22a60c87b73010d392eb173cbb3588</sys_scope>
+        <sys_scope_delete display_value="">417c65cf78bd4b58a19bb644e8302240</sys_scope_delete>
+        <sys_update_name>sys_data_policy2_b772351787773010d392eb173cbb3554</sys_update_name>
+        <sys_update_version display_value="sys_data_policy2_b772351787773010d392eb173cbb3554">d4a2751787773010d392eb173cbb35dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-18 20:08:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

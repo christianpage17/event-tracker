@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_720704_jello_wor_taches" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>2d6bcd2c87000110d392eb173cbb358f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>256bcd2c87000110d392eb173cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>a56bcd2c87000110d392eb173cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>296bcd2c87000110d392eb173cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>a96bcd2c87000110d392eb173cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_720704_jello_wor_taches" element="NULL" name="x_720704_jello_wor_taches" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e56bcd2c87000110d392eb173cbb358e</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_id>2d6bcd2c87000110d392eb173cbb3590</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_720704_jello_wor_taches</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-11-22 14:29:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e56bcd2c87000110d392eb173cbb358e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_720704_jello_wor_taches</sys_name>
+            <sys_package display_value="Jello World" source="x_720704_jello_wor">da22a60c87b73010d392eb173cbb3588</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Jello World">da22a60c87b73010d392eb173cbb3588</sys_scope>
+            <sys_update_name>sys_ui_list_x_720704_jello_wor_taches_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-11-22 14:29:27</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

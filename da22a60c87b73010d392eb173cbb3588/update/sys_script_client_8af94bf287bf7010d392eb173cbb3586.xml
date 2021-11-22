@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>test le debugger</description>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages>test le debugger message</messages>
+        <name>onLoad jello task</name>
+        <order/>
+        <script><![CDATA[function onLoad(){
+	g_form.addInfoMessage("on load a été appelé");
+	jslog("*****************************************************************on load a été appelé!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+	g_form.addErrorMessage("pourquoi ouvrez-vous ce fichier?");
+	
+}
+
+]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-17 13:15:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8af94bf287bf7010d392eb173cbb3586</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>onLoad jello task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Jello World" source="x_720704_jello_wor">da22a60c87b73010d392eb173cbb3588</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jello World">da22a60c87b73010d392eb173cbb3588</sys_scope>
+        <sys_update_name>sys_script_client_8af94bf287bf7010d392eb173cbb3586</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-17 21:02:54</sys_updated_on>
+        <table>x_720704_jello_wor_taches</table>
+        <type>onLoad</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

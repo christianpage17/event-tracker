@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="taches" max_length="40" name="x_720704_jello_wor_taches" sizeclass="3" type="collection">
+        <element attributes="encode_utf8=false" label="Execution" max_length="32" name="execution" reference="ecc_action" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Preparation" max_length="1000" name="preparation" type="string"/>
+    </element>
+</database>
